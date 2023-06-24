@@ -1,8 +1,8 @@
-# Raspberry Pi Morse Code Translator
+# Physical Morse Code Translator
 
 ## About
 
-This is a morse code translator that uses Raspberry Pi for the input and output
+This is a morse code translator that uses Raspberry Pi or Arduino for the input and output
 
 ### Features
 
